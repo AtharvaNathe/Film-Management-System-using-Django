@@ -4,7 +4,7 @@ A web-based **Film Management System** built using **Django**, **MySQL**, and **
 
 ---
 
-## 🌟 Features
+## 🌟 Features 
 
 - ✅ **Add New Film** – Input film name, genre, language, release year, and IMDb rating.
 - 📋 **Film Report** – Display all films in a tabular format.

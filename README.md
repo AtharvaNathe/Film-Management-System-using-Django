@@ -11,7 +11,7 @@ A web-based **Film Management System** built using **Django**, **MySQL**, and **
 - 🔍 **Search by Genre or Language** – Server-side and AJAX-based searches supported.
 - 🧹 **Delete Film** – Remove a film by entering its Film ID.
 - 🔐 **User Login** – Basic session-based login system.
-- ⚙️ **Responsive UI** – Styled with Bootstrap for mobile-friendly design.
+- ⚙️ **Responsive UI** – Styled with Bootstrap for mobile-friendly design.    
 
 ---
 

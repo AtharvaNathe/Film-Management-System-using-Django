@@ -62,13 +62,11 @@ cd film-management-system
 ### 2️⃣ Install Dependencies
 Make sure Python 3 and pip are installed. Then run:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 If requirements.txt is not present, install manually:
 
-bash
-Copy code
+
 pip install django pymysql
 
 
@@ -89,9 +87,8 @@ Make sure your films and users tables are created in the database.
 
 
 
-4️⃣ Run the Django Server
-bash
-Copy code
+### 4️⃣ Run the Django Server
+
 python manage.py runserver
 Visit http://localhost:8000 in your browser.
 

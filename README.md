@@ -54,7 +54,6 @@ A web-based **Film Management System** built using **Django**, **MySQL**, and **
 
 ### 1️⃣ Clone the Repository
 
-```bash
 git clone https://github.com/your-username/film-management-system.git
 cd film-management-system
 

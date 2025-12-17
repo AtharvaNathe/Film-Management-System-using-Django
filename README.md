@@ -73,7 +73,7 @@ pip install django pymysql
 
 
 
-3️⃣ Set Up MySQL Connection
+### 3️⃣ Set Up MySQL Connection
 Edit the file services.py and update the database credentials:
 
 python

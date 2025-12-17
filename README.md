@@ -59,7 +59,7 @@ cd film-management-system
 
 
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 Make sure Python 3 and pip are installed. Then run:
 
 bash

@@ -1,6 +1,6 @@
 # 🎬 Film Management System (Django + MySQL + Bootstrap)
 
-A web-based **Film Management System** built using **Django**, **MySQL**, and **Bootstrap**. This application allows users to manage a film database — add new films, search by genre/language, view reports, and delete records. 
+A web-based **Film Management System** built using **Django**, **MySQL**, and **Bootstrap**. This application allows users to manage a film database — add new films, search by genre/language, view reports, and delete records.  
 
 ---
 

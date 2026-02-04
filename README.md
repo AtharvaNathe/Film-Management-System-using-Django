@@ -15,7 +15,7 @@ A web-based **Film Management System** built using **Django**, **MySQL**, and **
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 
 
 | Layer         | Tech                     |
 |---------------|--------------------------|
